@@ -6,14 +6,7 @@
   
    <p align="center">
   Tenho 19 anos e sempre fui fascinado por computadores, eletrônicos, e tecnologia em geral. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
-  </p>
-
-<div align="center" style="display: inline_block"> 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-GilAntonyBorba&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-GilAntonyBorba&layout=compact&theme=radical)](https://github.com/GilAntonyBorba/github-readme-stats)
- 
- </div > 
+   </p>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
